@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>💙Courntey's personal Site💙</title>
+</head>
+<link rel=“stylesheet” href="/styles.css">
+<body>
+  <section id="intro">
+
+  <table cellspacing="20">
+    <tr>
+      <td><img  href="Images\Artboard 1.png" height="300px" width="343px" alt="Porfile design picture" /></td>
+      <td>
+        <h1>Courtney Brissette</h1>
+        <p><em>We <strong>Here</strong></em></p>
+        <p>I do a little bite of drawing. I also build sites and make music. I also do art for tattoos. I also use it for my websites and pictures for songs. If youu would like to work email me at rolltr33@gmail.com</p>
+      </td>
+    </tr>
+  </table>
+
+
+
+
+  <hr/>
+  <h3>Eduaction</h3>
+  <p>
+  <ul>
+    <li>Ashford Universty</li>
+    <li>Devry</li>
+    <li>Stanford Brown</li>
+    <h3>Work</h3><table><thead><tr>
+
+    </tr><th>Dates
+
+    </th>
+      <th>work
+
+      </th>
+    </thead> <tbody>
+      <td>w
+
+      </td>
+    </tbody>
+
+    </table>
+    <h3>Skills</h3>
+    <table cellspacing="1">
+      <tr>
+
+        <td>Production </td>
+        <td>⭐⭐⭐⭐</td>
+
+
+      </tr>
+      <tr>
+        <td>design</td>
+        <td>
+          ⭐⭐⭐
+        </td>
+      </tr>
+      <tr>
+        <td>photograghy
+        </td><td>⭐⭐
+        </td>
+      </tr><tr>
+        <td>
+          html
+        </td> <td>
+          ⭐⭐
+        </td>
+
+      </tr>
+    </table>
+    <hr />
+    <h3><a href="Hobbies.html" </a>Hobbies</h3> <a href="Contact.html" </a>Contact</p>
+
+</body>
+
+</html>
