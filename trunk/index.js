@@ -1,2 +1,2 @@
 alert("hop");
-$("bacgroun").css("bacground-color: blue");
+$("h1").css("gg");
