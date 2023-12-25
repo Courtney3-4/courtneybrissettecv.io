@@ -1,4 +1,4 @@
-.h1{ text-align: center;};
-.g{font-style: oblique; color: azure;}
+.h1{ text-align: center; -webkit-text-stroke-color: blueviolet};
+.table{color: blueviolet;}
 .h1{color:blue;};
 .li{color:aquamarine;};
